@@ -1,6 +1,5 @@
 # Nexfolio
 Production-style developer portfolio dashboard built with Next.js, TypeScript, and Tailwind CSS featuring analytics widgets, GitHub API integration, responsive SaaS UI, authentication flows, and modern dashboard architecture.
-# Nexfolio
 
 An enterprise-grade Portfolio Dashboard Web App built with Next.js (App Router), TypeScript, and Tailwind CSS. It features a modern SaaS-like design (glassmorphism, gradients, animations) to manage projects, track analytics, and showcase your developer journey.
 
